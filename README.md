@@ -1,1 +1,2 @@
-# desk-py-calc
+# Python Desktop Calculator
+calc
